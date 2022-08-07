@@ -3,8 +3,50 @@ Implementation-Title: restapi
 Implementation-Version: 1.0
 Built-By: nvduy
 Implementation-Vendor-Id: com.covid19
+Class-Path: lib/spring-boot-starter-web-services-1.5.22.RELEASE.jar li
+ b/spring-boot-starter-1.5.22.RELEASE.jar lib/spring-boot-1.5.22.RELEA
+ SE.jar lib/spring-boot-autoconfigure-1.5.22.RELEASE.jar lib/spring-bo
+ ot-starter-logging-1.5.22.RELEASE.jar lib/logback-classic-1.1.11.jar 
+ lib/logback-core-1.1.11.jar lib/jul-to-slf4j-1.7.26.jar lib/log4j-ove
+ r-slf4j-1.7.26.jar lib/spring-core-4.3.25.RELEASE.jar lib/snakeyaml-1
+ .17.jar lib/spring-boot-starter-web-1.5.22.RELEASE.jar lib/spring-boo
+ t-starter-tomcat-1.5.22.RELEASE.jar lib/tomcat-embed-core-8.5.43.jar 
+ lib/tomcat-annotations-api-8.5.43.jar lib/tomcat-embed-el-8.5.43.jar 
+ lib/tomcat-embed-websocket-8.5.43.jar lib/hibernate-validator-5.3.6.F
+ inal.jar lib/validation-api-1.1.0.Final.jar lib/classmate-1.3.4.jar l
+ ib/jackson-databind-2.8.11.3.jar lib/jackson-annotations-2.8.0.jar li
+ b/jackson-core-2.8.11.jar lib/spring-web-4.3.25.RELEASE.jar lib/sprin
+ g-webmvc-4.3.25.RELEASE.jar lib/spring-expression-4.3.25.RELEASE.jar 
+ lib/spring-oxm-4.3.25.RELEASE.jar lib/spring-beans-4.3.25.RELEASE.jar
+  lib/spring-ws-core-2.4.5.RELEASE.jar lib/spring-xml-2.4.5.RELEASE.ja
+ r lib/spring-aop-4.3.25.RELEASE.jar lib/spring-boot-starter-data-jpa-
+ 1.5.22.RELEASE.jar lib/spring-boot-starter-aop-1.5.22.RELEASE.jar lib
+ /aspectjweaver-1.8.14.jar lib/spring-boot-starter-jdbc-1.5.22.RELEASE
+ .jar lib/tomcat-jdbc-8.5.43.jar lib/tomcat-juli-8.5.43.jar lib/spring
+ -jdbc-4.3.25.RELEASE.jar lib/hibernate-core-5.0.12.Final.jar lib/jbos
+ s-logging-3.3.2.Final.jar lib/hibernate-jpa-2.1-api-1.0.0.Final.jar l
+ ib/javassist-3.21.0-GA.jar lib/antlr-2.7.7.jar lib/jandex-2.0.0.Final
+ .jar lib/dom4j-1.6.1.jar lib/hibernate-commons-annotations-5.0.1.Fina
+ l.jar lib/hibernate-entitymanager-5.0.12.Final.jar lib/javax.transact
+ ion-api-1.2.jar lib/spring-data-jpa-1.11.23.RELEASE.jar lib/spring-da
+ ta-commons-1.13.23.RELEASE.jar lib/spring-orm-4.3.25.RELEASE.jar lib/
+ spring-context-4.3.25.RELEASE.jar lib/spring-tx-4.3.25.RELEASE.jar li
+ b/slf4j-api-1.7.26.jar lib/jcl-over-slf4j-1.7.26.jar lib/spring-aspec
+ ts-4.3.25.RELEASE.jar lib/mssql-jdbc-6.1.0.jre7.jar lib/azure-keyvaul
+ t-0.9.3.jar lib/azure-core-0.9.3.jar lib/commons-codec-1.10.jar lib/c
+ ommons-lang-2.6.jar lib/mail-1.4.5.jar lib/activation-1.1.jar lib/jer
+ sey-client-1.13.jar lib/jersey-core-1.13.jar lib/jersey-json-1.13.jar
+  lib/jettison-1.1.jar lib/stax-api-1.0.1.jar lib/jaxb-impl-2.2.3-1.ja
+ r lib/jackson-core-asl-1.9.2.jar lib/jackson-mapper-asl-1.9.2.jar lib
+ /jackson-jaxrs-1.9.2.jar lib/jackson-xc-1.9.2.jar lib/httpclient-4.5.
+ 9.jar lib/httpcore-4.4.11.jar lib/javax.inject-1.jar lib/adal4j-1.0.0
+ .jar lib/oauth2-oidc-sdk-4.5.jar lib/jcip-annotations-1.0.jar lib/com
+ mons-lang3-3.3.1.jar lib/json-smart-1.1.1.jar lib/lang-tag-1.4.jar li
+ b/nimbus-jose-jwt-3.1.2.jar lib/bcprov-jdk15on-1.51.jar lib/gson-2.8.
+ 5.jar lib/jaxb-api-2.3.0.jar
 Build-Jdk: 1.8.0_271
 Implementation-URL: https://projects.spring.io/spring-boot/restapi/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.covid19.Application
 
